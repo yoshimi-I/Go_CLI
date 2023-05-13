@@ -14,3 +14,4 @@ go mod init go_cli
 ```
 cobra-cli init
 ```
+4. 以下のコマンドを打つ
